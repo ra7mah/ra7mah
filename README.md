@@ -1,13 +1,6 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/11/cc/0f/11cc0f9be3401dc692c824c5d3c8cb0c.gif" width="800"/>
-</p>
 
 ## Hello there 👋🏼, I'm Rahma
 a recent Information Systems graduate from Saudi Arabia with a passion for creating and innovating through technology. My interests span web development, game development and design, and artificial intelligence, where I enjoy turning ideas into impactful digital experiences.
-
-<p align="center">
-  <img src="https://i.pinimg.com/originals/f6/77/06/f6770624a35b3db11b3ba9d9f3a4fbd1.gif" width="700"/>
-</p>
 
 ## How can u reach me?
 feel free to contact me through my email rahmahalsharif@hotmail.com
